@@ -1,0 +1,7 @@
+# Sentiment Analysis System
+
+This project analyzes text sentiment.
+
+## Features
+- Detects positive/negative tone
+- Simple NLP logic
