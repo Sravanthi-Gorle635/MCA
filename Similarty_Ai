@@ -1,0 +1,9 @@
+# Text Similarity Checker
+
+This project calculates similarity between two texts.
+
+## Features
+- Removes punctuation
+- Finds common words
+- Calculates similarity percentage
+
