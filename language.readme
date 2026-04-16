@@ -1,0 +1,12 @@
+# Language Detection AI
+
+This project detects whether a given text is English, Spanish, or French using basic NLP techniques.
+
+## Features
+- Detects 3 languages
+- Uses keyword matching
+- Simple and fast
+
+## Example
+Input: hola amigo  
+Output: Spanish 🇪🇸
