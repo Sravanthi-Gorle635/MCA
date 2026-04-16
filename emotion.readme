@@ -1,0 +1,17 @@
+# Emotion Detection AI
+
+This project detects human emotions from input text using basic Natural Language Processing (NLP) techniques.
+
+## 📌 Features
+
+* Detects multiple emotions:
+
+  * Happy 😄
+  * Sad 😢
+  * Angry 😡
+* Cleans text (removes punctuation)
+* Calculates emotion scores
+* Shows final detected emotion
+* Displays confidence percentage (optional)
+
+
